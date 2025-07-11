@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cphleet README
 
 This is the README for your extension "cphleet". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,6 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# Leet_Code_Extension
+>>>>>>> bcb59043efaf1a557e23fcbb1661f6e285f13987
